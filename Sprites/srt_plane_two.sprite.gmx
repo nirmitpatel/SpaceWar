@@ -9,8 +9,8 @@
   <bboxmode>0</bboxmode>
   <bbox_left>0</bbox_left>
   <bbox_right>407</bbox_right>
-  <bbox_top>0</bbox_top>
-  <bbox_bottom>273</bbox_bottom>
+  <bbox_top>8</bbox_top>
+  <bbox_bottom>271</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -21,40 +21,5 @@
   <height>274</height>
   <frames>
     <frame index="0">images\srt_plane_two_0.png</frame>
-    <frame index="1">images\srt_plane_two_1.png</frame>
-    <frame index="2">images\srt_plane_two_2.png</frame>
-    <frame index="3">images\srt_plane_two_3.png</frame>
-    <frame index="4">images\srt_plane_two_4.png</frame>
-    <frame index="5">images\srt_plane_two_5.png</frame>
-    <frame index="6">images\srt_plane_two_6.png</frame>
-    <frame index="7">images\srt_plane_two_7.png</frame>
-    <frame index="8">images\srt_plane_two_8.png</frame>
-    <frame index="9">images\srt_plane_two_9.png</frame>
-    <frame index="10">images\srt_plane_two_10.png</frame>
-    <frame index="11">images\srt_plane_two_11.png</frame>
-    <frame index="12">images\srt_plane_two_12.png</frame>
-    <frame index="13">images\srt_plane_two_13.png</frame>
-    <frame index="14">images\srt_plane_two_14.png</frame>
-    <frame index="15">images\srt_plane_two_15.png</frame>
-    <frame index="16">images\srt_plane_two_16.png</frame>
-    <frame index="17">images\srt_plane_two_17.png</frame>
-    <frame index="18">images\srt_plane_two_18.png</frame>
-    <frame index="19">images\srt_plane_two_19.png</frame>
-    <frame index="20">images\srt_plane_two_20.png</frame>
-    <frame index="21">images\srt_plane_two_21.png</frame>
-    <frame index="22">images\srt_plane_two_22.png</frame>
-    <frame index="23">images\srt_plane_two_23.png</frame>
-    <frame index="24">images\srt_plane_two_24.png</frame>
-    <frame index="25">images\srt_plane_two_25.png</frame>
-    <frame index="26">images\srt_plane_two_26.png</frame>
-    <frame index="27">images\srt_plane_two_27.png</frame>
-    <frame index="28">images\srt_plane_two_28.png</frame>
-    <frame index="29">images\srt_plane_two_29.png</frame>
-    <frame index="30">images\srt_plane_two_30.png</frame>
-    <frame index="31">images\srt_plane_two_31.png</frame>
-    <frame index="32">images\srt_plane_two_32.png</frame>
-    <frame index="33">images\srt_plane_two_33.png</frame>
-    <frame index="34">images\srt_plane_two_34.png</frame>
-    <frame index="35">images\srt_plane_two_35.png</frame>
   </frames>
 </sprite>
