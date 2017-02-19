@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>speed</string>
+            <string>direction</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>direction</string>
+            <string>speed</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -75,8 +75,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//move_towards_point( obj_con_ast.x, obj_con_ast.y, 3);
-image_angle = direction + 180
+            <string>image_angle = direction + 180
 image_speed = 0
 </string>
           </argument>
@@ -98,8 +97,22 @@ image_speed = 0
         <relative>0</relative>
         <isnot>0</isnot>
       </action>
+      <action>
+        <libid>1</libid>
+        <id>331</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_restart_game</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
     </event>
-    <event eventtype="4" ename="obj_asteroid">
+    <event eventtype="4" ename="obj_bomb">
       <action>
         <libid>1</libid>
         <id>201</id>
@@ -283,7 +296,7 @@ image_speed = 0
         </arguments>
       </action>
     </event>
-    <event eventtype="9" enumb="16">
+    <event eventtype="9" enumb="17">
       <action>
         <libid>1</libid>
         <id>206</id>
@@ -316,7 +329,7 @@ image_speed = 0
           </argument>
           <argument>
             <kind>0</kind>
-            <string>direction</string>
+            <string>direction+180</string>
           </argument>
         </arguments>
       </action>
