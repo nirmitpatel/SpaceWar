@@ -143,7 +143,7 @@ image_speed = 0
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>Player 1 Wins!</string>
+            <string>Player 2 Wins!</string>
           </argument>
         </arguments>
       </action>
