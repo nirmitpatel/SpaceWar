@@ -5,6 +5,7 @@ This is the user manual for the updated version of the classic game SpaceWar! Pl
 This is a two-user game so the controls for the users are different:
 
 User 1:
+
 D: Rotate the spaceship counter-clockwise 
 
 A: rotate the spaceship clockwise 
@@ -14,6 +15,7 @@ Q: Jump the spaceship to random positions (Limited 10 times per game)
 SPACEBAR: Shoot bombs (unlimited)
 
 User 2:
+
 LEFT ARROW: move the spaceship left
 
 RIGHT ARROW: move the spaceship right 
